@@ -158,7 +158,12 @@ int main(int argc, char* argv[]) {
 		cout << "Inverting Image" << endl;
 		FostroInvertFilter invertFilter(3,3);
 		invertFilter.setAllMaskValsSame(1);
-		newImage = invertFilter.applyFilter(&image, GRAY);
+
+		invertFilter.setupFilterGPU(&image, GRAY);
+		invertFilter.applyFilterGPU(GRAY);
+		newImage = invertFilter.cleanupFilterGPU(&image);
+
+		//newImage = invertFilter.applyFilter(&image, GRAY);
 	}
 
 	if (mediainvertflag) {
