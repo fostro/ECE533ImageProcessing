@@ -1,6 +1,6 @@
 #!/usr/bin/perl
 
-@inputFiles = ("mcsfp", "mcdfp", "scsfp", "scdfp");
+@inputFiles = ("wc680sfp", "wc680dfp", "wc580sfp", "wc580dfp", "scsfp", "scdfp");
 
 open($output, ">", "compiledData.csv") or die "cannot open < compiledData.csv: $!";
 

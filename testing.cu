@@ -6,6 +6,7 @@
 #include <cuda.h>
 #include "Utils/FostroImage.h"
 #include "Utils/FostroDefines.h"
+#include "Utils/FostroCudaDevice.h"
 #include "Filters/FostroInvertFilterGPU.h"
 #include "Filters/FostroSmoothFilterGPU.h"
 #include "Utils/MonkTimer.h"
@@ -70,6 +71,15 @@ int main(int argc, char* argv[]) {
 		cout << "No Input File Specified" << endl;
 		exit(-1);
 	}
+
+	FostroCudaDevice device;
+	cout << "Device count is " << device.getDeviceCount() << endl;
+	cout << "Original Device is ";
+	device.getCurrentDeviceName();
+	device.setDevice(GTX580_1);
+	cout << "New Device is ";
+	device.getCurrentDeviceName();
+
 	cout << "Creating Image" << endl;
 
 	MonkTimer open("Open");
