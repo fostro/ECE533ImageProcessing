@@ -1,0 +1,930 @@
+Device count is 3
+Original Device is Device 0:  GeForce GTX 680
+New Device is Device 0:  GeForce GTX 680
+Creating Image
+Smoothing Image
+Creating Smooth Filter
+Setting Up Smooth Filter
+Applying Smooth Filter
+Cleaning Up Smooth Filter
+Setting Output Name
+Saving Image to output3_1.png
+Save MonkTimer Report: 
+	Called 1 Times
+	Took 20.9556s on Ave
+	Took 20.9556s Total
+Total MonkTimer Report: 
+	Called 1 Times
+	Took 24.7584s on Ave
+	Took 24.7584s Total
+GPU MonkTimer Report: 
+	Called 1 Times
+	Took 0.126346s on Ave
+	Took 0.126346s Total
+Setup MonkTimer Report: 
+	Called 1 Times
+	Took 1.32216s on Ave
+	Took 1.32216s Total
+Open MonkTimer Report: 
+	Called 1 Times
+	Took 2.4807s on Ave
+	Took 2.4807s Total
+Device count is 3
+Original Device is Device 0:  GeForce GTX 680
+New Device is Device 0:  GeForce GTX 680
+Creating Image
+Smoothing Image
+Creating Smooth Filter
+Setting Up Smooth Filter
+Applying Smooth Filter
+Cleaning Up Smooth Filter
+Setting Output Name
+Saving Image to output3_2.png
+Save MonkTimer Report: 
+	Called 1 Times
+	Took 21.1095s on Ave
+	Took 21.1095s Total
+Total MonkTimer Report: 
+	Called 1 Times
+	Took 24.9038s on Ave
+	Took 24.9038s Total
+GPU MonkTimer Report: 
+	Called 1 Times
+	Took 0.126691s on Ave
+	Took 0.126691s Total
+Setup MonkTimer Report: 
+	Called 1 Times
+	Took 1.32079s on Ave
+	Took 1.32079s Total
+Open MonkTimer Report: 
+	Called 1 Times
+	Took 2.47354s on Ave
+	Took 2.47354s Total
+Device count is 3
+Original Device is Device 0:  GeForce GTX 680
+New Device is Device 0:  GeForce GTX 680
+Creating Image
+Smoothing Image
+Creating Smooth Filter
+Setting Up Smooth Filter
+Applying Smooth Filter
+Cleaning Up Smooth Filter
+Setting Output Name
+Saving Image to output3_3.png
+Save MonkTimer Report: 
+	Called 1 Times
+	Took 21.2074s on Ave
+	Took 21.2074s Total
+Total MonkTimer Report: 
+	Called 1 Times
+	Took 24.978s on Ave
+	Took 24.978s Total
+GPU MonkTimer Report: 
+	Called 1 Times
+	Took 0.117472s on Ave
+	Took 0.117472s Total
+Setup MonkTimer Report: 
+	Called 1 Times
+	Took 1.26998s on Ave
+	Took 1.26998s Total
+Open MonkTimer Report: 
+	Called 1 Times
+	Took 2.50057s on Ave
+	Took 2.50057s Total
+Device count is 3
+Original Device is Device 0:  GeForce GTX 680
+New Device is Device 0:  GeForce GTX 680
+Creating Image
+Smoothing Image
+Creating Smooth Filter
+Setting Up Smooth Filter
+Applying Smooth Filter
+Cleaning Up Smooth Filter
+Setting Output Name
+Saving Image to output5_1.png
+Save MonkTimer Report: 
+	Called 1 Times
+	Took 22.1496s on Ave
+	Took 22.1496s Total
+Total MonkTimer Report: 
+	Called 1 Times
+	Took 26.1371s on Ave
+	Took 26.1371s Total
+GPU MonkTimer Report: 
+	Called 1 Times
+	Took 0.307152s on Ave
+	Took 0.307152s Total
+Setup MonkTimer Report: 
+	Called 1 Times
+	Took 1.49601s on Ave
+	Took 1.49601s Total
+Open MonkTimer Report: 
+	Called 1 Times
+	Took 2.49148s on Ave
+	Took 2.49148s Total
+Device count is 3
+Original Device is Device 0:  GeForce GTX 680
+New Device is Device 0:  GeForce GTX 680
+Creating Image
+Smoothing Image
+Creating Smooth Filter
+Setting Up Smooth Filter
+Applying Smooth Filter
+Cleaning Up Smooth Filter
+Setting Output Name
+Saving Image to output5_2.png
+Save MonkTimer Report: 
+	Called 1 Times
+	Took 22.3739s on Ave
+	Took 22.3739s Total
+Total MonkTimer Report: 
+	Called 1 Times
+	Took 26.3053s on Ave
+	Took 26.3053s Total
+GPU MonkTimer Report: 
+	Called 1 Times
+	Took 0.302476s on Ave
+	Took 0.302476s Total
+Setup MonkTimer Report: 
+	Called 1 Times
+	Took 1.50147s on Ave
+	Took 1.50147s Total
+Open MonkTimer Report: 
+	Called 1 Times
+	Took 2.42992s on Ave
+	Took 2.42992s Total
+Device count is 3
+Original Device is Device 0:  GeForce GTX 680
+New Device is Device 0:  GeForce GTX 680
+Creating Image
+Smoothing Image
+Creating Smooth Filter
+Setting Up Smooth Filter
+Applying Smooth Filter
+Cleaning Up Smooth Filter
+Setting Output Name
+Saving Image to output5_3.png
+Save MonkTimer Report: 
+	Called 1 Times
+	Took 22.1312s on Ave
+	Took 22.1312s Total
+Total MonkTimer Report: 
+	Called 1 Times
+	Took 26.0101s on Ave
+	Took 26.0101s Total
+GPU MonkTimer Report: 
+	Called 1 Times
+	Took 0.306196s on Ave
+	Took 0.306196s Total
+Setup MonkTimer Report: 
+	Called 1 Times
+	Took 1.45388s on Ave
+	Took 1.45388s Total
+Open MonkTimer Report: 
+	Called 1 Times
+	Took 2.42493s on Ave
+	Took 2.42493s Total
+Device count is 3
+Original Device is Device 0:  GeForce GTX 680
+New Device is Device 0:  GeForce GTX 680
+Creating Image
+Smoothing Image
+Creating Smooth Filter
+Setting Up Smooth Filter
+Applying Smooth Filter
+Cleaning Up Smooth Filter
+Setting Output Name
+Saving Image to output7_1.png
+Save MonkTimer Report: 
+	Called 1 Times
+	Took 23.6699s on Ave
+	Took 23.6699s Total
+Total MonkTimer Report: 
+	Called 1 Times
+	Took 27.8616s on Ave
+	Took 27.8616s Total
+GPU MonkTimer Report: 
+	Called 1 Times
+	Took 0.569813s on Ave
+	Took 0.569813s Total
+Setup MonkTimer Report: 
+	Called 1 Times
+	Took 1.76387s on Ave
+	Took 1.76387s Total
+Open MonkTimer Report: 
+	Called 1 Times
+	Took 2.42777s on Ave
+	Took 2.42777s Total
+Device count is 3
+Original Device is Device 0:  GeForce GTX 680
+New Device is Device 0:  GeForce GTX 680
+Creating Image
+Smoothing Image
+Creating Smooth Filter
+Setting Up Smooth Filter
+Applying Smooth Filter
+Cleaning Up Smooth Filter
+Setting Output Name
+Saving Image to output7_2.png
+Save MonkTimer Report: 
+	Called 1 Times
+	Took 23.3519s on Ave
+	Took 23.3519s Total
+Total MonkTimer Report: 
+	Called 1 Times
+	Took 27.5553s on Ave
+	Took 27.5553s Total
+GPU MonkTimer Report: 
+	Called 1 Times
+	Took 0.587981s on Ave
+	Took 0.587981s Total
+Setup MonkTimer Report: 
+	Called 1 Times
+	Took 1.77786s on Ave
+	Took 1.77786s Total
+Open MonkTimer Report: 
+	Called 1 Times
+	Took 2.4255s on Ave
+	Took 2.4255s Total
+Device count is 3
+Original Device is Device 0:  GeForce GTX 680
+New Device is Device 0:  GeForce GTX 680
+Creating Image
+Smoothing Image
+Creating Smooth Filter
+Setting Up Smooth Filter
+Applying Smooth Filter
+Cleaning Up Smooth Filter
+Setting Output Name
+Saving Image to output7_3.png
+Save MonkTimer Report: 
+	Called 1 Times
+	Took 23.4665s on Ave
+	Took 23.4665s Total
+Total MonkTimer Report: 
+	Called 1 Times
+	Took 27.7145s on Ave
+	Took 27.7145s Total
+GPU MonkTimer Report: 
+	Called 1 Times
+	Took 0.569831s on Ave
+	Took 0.569831s Total
+Setup MonkTimer Report: 
+	Called 1 Times
+	Took 1.75576s on Ave
+	Took 1.75576s Total
+Open MonkTimer Report: 
+	Called 1 Times
+	Took 2.49228s on Ave
+	Took 2.49228s Total
+Device count is 3
+Original Device is Device 0:  GeForce GTX 680
+New Device is Device 0:  GeForce GTX 680
+Creating Image
+Smoothing Image
+Creating Smooth Filter
+Setting Up Smooth Filter
+Applying Smooth Filter
+Cleaning Up Smooth Filter
+Setting Output Name
+Saving Image to output9_1.png
+Save MonkTimer Report: 
+	Called 1 Times
+	Took 23.0286s on Ave
+	Took 23.0286s Total
+Total MonkTimer Report: 
+	Called 1 Times
+	Took 27.5563s on Ave
+	Took 27.5563s Total
+GPU MonkTimer Report: 
+	Called 1 Times
+	Took 0.941521s on Ave
+	Took 0.941521s Total
+Setup MonkTimer Report: 
+	Called 1 Times
+	Took 2.12415s on Ave
+	Took 2.12415s Total
+Open MonkTimer Report: 
+	Called 1 Times
+	Took 2.40357s on Ave
+	Took 2.40357s Total
+Device count is 3
+Original Device is Device 0:  GeForce GTX 680
+New Device is Device 0:  GeForce GTX 680
+Creating Image
+Smoothing Image
+Creating Smooth Filter
+Setting Up Smooth Filter
+Applying Smooth Filter
+Cleaning Up Smooth Filter
+Setting Output Name
+Saving Image to output9_2.png
+Save MonkTimer Report: 
+	Called 1 Times
+	Took 23.3019s on Ave
+	Took 23.3019s Total
+Total MonkTimer Report: 
+	Called 1 Times
+	Took 27.8558s on Ave
+	Took 27.8558s Total
+GPU MonkTimer Report: 
+	Called 1 Times
+	Took 0.930802s on Ave
+	Took 0.930802s Total
+Setup MonkTimer Report: 
+	Called 1 Times
+	Took 2.12387s on Ave
+	Took 2.12387s Total
+Open MonkTimer Report: 
+	Called 1 Times
+	Took 2.43003s on Ave
+	Took 2.43003s Total
+Device count is 3
+Original Device is Device 0:  GeForce GTX 680
+New Device is Device 0:  GeForce GTX 680
+Creating Image
+Smoothing Image
+Creating Smooth Filter
+Setting Up Smooth Filter
+Applying Smooth Filter
+Cleaning Up Smooth Filter
+Setting Output Name
+Saving Image to output9_3.png
+Save MonkTimer Report: 
+	Called 1 Times
+	Took 23.1979s on Ave
+	Took 23.1979s Total
+Total MonkTimer Report: 
+	Called 1 Times
+	Took 27.8051s on Ave
+	Took 27.8051s Total
+GPU MonkTimer Report: 
+	Called 1 Times
+	Took 0.945074s on Ave
+	Took 0.945074s Total
+Setup MonkTimer Report: 
+	Called 1 Times
+	Took 2.12893s on Ave
+	Took 2.12893s Total
+Open MonkTimer Report: 
+	Called 1 Times
+	Took 2.47824s on Ave
+	Took 2.47824s Total
+Device count is 3
+Original Device is Device 0:  GeForce GTX 680
+New Device is Device 0:  GeForce GTX 680
+Creating Image
+Smoothing Image
+Creating Smooth Filter
+Setting Up Smooth Filter
+Applying Smooth Filter
+Cleaning Up Smooth Filter
+Setting Output Name
+Saving Image to output11_1.png
+Save MonkTimer Report: 
+	Called 1 Times
+	Took 22.4442s on Ave
+	Took 22.4442s Total
+Total MonkTimer Report: 
+	Called 1 Times
+	Took 27.3993s on Ave
+	Took 27.3993s Total
+GPU MonkTimer Report: 
+	Called 1 Times
+	Took 1.38902s on Ave
+	Took 1.38902s Total
+Setup MonkTimer Report: 
+	Called 1 Times
+	Took 2.55268s on Ave
+	Took 2.55268s Total
+Open MonkTimer Report: 
+	Called 1 Times
+	Took 2.40238s on Ave
+	Took 2.40238s Total
+Device count is 3
+Original Device is Device 0:  GeForce GTX 680
+New Device is Device 0:  GeForce GTX 680
+Creating Image
+Smoothing Image
+Creating Smooth Filter
+Setting Up Smooth Filter
+Applying Smooth Filter
+Cleaning Up Smooth Filter
+Setting Output Name
+Saving Image to output11_2.png
+Save MonkTimer Report: 
+	Called 1 Times
+	Took 22.5906s on Ave
+	Took 22.5906s Total
+Total MonkTimer Report: 
+	Called 1 Times
+	Took 27.6055s on Ave
+	Took 27.6055s Total
+GPU MonkTimer Report: 
+	Called 1 Times
+	Took 1.40166s on Ave
+	Took 1.40166s Total
+Setup MonkTimer Report: 
+	Called 1 Times
+	Took 2.58626s on Ave
+	Took 2.58626s Total
+Open MonkTimer Report: 
+	Called 1 Times
+	Took 2.42871s on Ave
+	Took 2.42871s Total
+Device count is 3
+Original Device is Device 0:  GeForce GTX 680
+New Device is Device 0:  GeForce GTX 680
+Creating Image
+Smoothing Image
+Creating Smooth Filter
+Setting Up Smooth Filter
+Applying Smooth Filter
+Cleaning Up Smooth Filter
+Setting Output Name
+Saving Image to output11_3.png
+Save MonkTimer Report: 
+	Called 1 Times
+	Took 22.8269s on Ave
+	Took 22.8269s Total
+Total MonkTimer Report: 
+	Called 1 Times
+	Took 27.7594s on Ave
+	Took 27.7594s Total
+GPU MonkTimer Report: 
+	Called 1 Times
+	Took 1.38214s on Ave
+	Took 1.38214s Total
+Setup MonkTimer Report: 
+	Called 1 Times
+	Took 2.5842s on Ave
+	Took 2.5842s Total
+Open MonkTimer Report: 
+	Called 1 Times
+	Took 2.34829s on Ave
+	Took 2.34829s Total
+Device count is 3
+Original Device is Device 0:  GeForce GTX 680
+New Device is Device 0:  GeForce GTX 680
+Creating Image
+Smoothing Image
+Creating Smooth Filter
+Setting Up Smooth Filter
+Applying Smooth Filter
+Cleaning Up Smooth Filter
+Setting Output Name
+Saving Image to output13_1.png
+Save MonkTimer Report: 
+	Called 1 Times
+	Took 23.0949s on Ave
+	Took 23.0949s Total
+Total MonkTimer Report: 
+	Called 1 Times
+	Took 28.6247s on Ave
+	Took 28.6247s Total
+GPU MonkTimer Report: 
+	Called 1 Times
+	Took 1.92129s on Ave
+	Took 1.92129s Total
+Setup MonkTimer Report: 
+	Called 1 Times
+	Took 3.11548s on Ave
+	Took 3.11548s Total
+Open MonkTimer Report: 
+	Called 1 Times
+	Took 2.41437s on Ave
+	Took 2.41437s Total
+Device count is 3
+Original Device is Device 0:  GeForce GTX 680
+New Device is Device 0:  GeForce GTX 680
+Creating Image
+Smoothing Image
+Creating Smooth Filter
+Setting Up Smooth Filter
+Applying Smooth Filter
+Cleaning Up Smooth Filter
+Setting Output Name
+Saving Image to output13_2.png
+Save MonkTimer Report: 
+	Called 1 Times
+	Took 22.751s on Ave
+	Took 22.751s Total
+Total MonkTimer Report: 
+	Called 1 Times
+	Took 28.3306s on Ave
+	Took 28.3306s Total
+GPU MonkTimer Report: 
+	Called 1 Times
+	Took 1.92139s on Ave
+	Took 1.92139s Total
+Setup MonkTimer Report: 
+	Called 1 Times
+	Took 3.07019s on Ave
+	Took 3.07019s Total
+Open MonkTimer Report: 
+	Called 1 Times
+	Took 2.50941s on Ave
+	Took 2.50941s Total
+Device count is 3
+Original Device is Device 0:  GeForce GTX 680
+New Device is Device 0:  GeForce GTX 680
+Creating Image
+Smoothing Image
+Creating Smooth Filter
+Setting Up Smooth Filter
+Applying Smooth Filter
+Cleaning Up Smooth Filter
+Setting Output Name
+Saving Image to output13_3.png
+Save MonkTimer Report: 
+	Called 1 Times
+	Took 23.0031s on Ave
+	Took 23.0031s Total
+Total MonkTimer Report: 
+	Called 1 Times
+	Took 28.5895s on Ave
+	Took 28.5895s Total
+GPU MonkTimer Report: 
+	Called 1 Times
+	Took 1.91451s on Ave
+	Took 1.91451s Total
+Setup MonkTimer Report: 
+	Called 1 Times
+	Took 3.09673s on Ave
+	Took 3.09673s Total
+Open MonkTimer Report: 
+	Called 1 Times
+	Took 2.48961s on Ave
+	Took 2.48961s Total
+Device count is 3
+Original Device is Device 0:  GeForce GTX 680
+New Device is Device 0:  GeForce GTX 680
+Creating Image
+Smoothing Image
+Creating Smooth Filter
+Setting Up Smooth Filter
+Applying Smooth Filter
+Cleaning Up Smooth Filter
+Setting Output Name
+Saving Image to output15_1.png
+Save MonkTimer Report: 
+	Called 1 Times
+	Took 23.7992s on Ave
+	Took 23.7992s Total
+Total MonkTimer Report: 
+	Called 1 Times
+	Took 30.064s on Ave
+	Took 30.064s Total
+GPU MonkTimer Report: 
+	Called 1 Times
+	Took 2.53456s on Ave
+	Took 2.53456s Total
+Setup MonkTimer Report: 
+	Called 1 Times
+	Took 3.70534s on Ave
+	Took 3.70534s Total
+Open MonkTimer Report: 
+	Called 1 Times
+	Took 2.55946s on Ave
+	Took 2.55946s Total
+Device count is 3
+Original Device is Device 0:  GeForce GTX 680
+New Device is Device 0:  GeForce GTX 680
+Creating Image
+Smoothing Image
+Creating Smooth Filter
+Setting Up Smooth Filter
+Applying Smooth Filter
+Cleaning Up Smooth Filter
+Setting Output Name
+Saving Image to output15_2.png
+Save MonkTimer Report: 
+	Called 1 Times
+	Took 23.8788s on Ave
+	Took 23.8788s Total
+Total MonkTimer Report: 
+	Called 1 Times
+	Took 30.0602s on Ave
+	Took 30.0602s Total
+GPU MonkTimer Report: 
+	Called 1 Times
+	Took 2.52977s on Ave
+	Took 2.52977s Total
+Setup MonkTimer Report: 
+	Called 1 Times
+	Took 3.71106s on Ave
+	Took 3.71106s Total
+Open MonkTimer Report: 
+	Called 1 Times
+	Took 2.47034s on Ave
+	Took 2.47034s Total
+Device count is 3
+Original Device is Device 0:  GeForce GTX 680
+New Device is Device 0:  GeForce GTX 680
+Creating Image
+Smoothing Image
+Creating Smooth Filter
+Setting Up Smooth Filter
+Applying Smooth Filter
+Cleaning Up Smooth Filter
+Setting Output Name
+Saving Image to output15_3.png
+Save MonkTimer Report: 
+	Called 1 Times
+	Took 23.8102s on Ave
+	Took 23.8102s Total
+Total MonkTimer Report: 
+	Called 1 Times
+	Took 29.9973s on Ave
+	Took 29.9973s Total
+GPU MonkTimer Report: 
+	Called 1 Times
+	Took 2.53382s on Ave
+	Took 2.53382s Total
+Setup MonkTimer Report: 
+	Called 1 Times
+	Took 3.69916s on Ave
+	Took 3.69916s Total
+Open MonkTimer Report: 
+	Called 1 Times
+	Took 2.4879s on Ave
+	Took 2.4879s Total
+Device count is 3
+Original Device is Device 0:  GeForce GTX 680
+New Device is Device 0:  GeForce GTX 680
+Creating Image
+Smoothing Image
+Creating Smooth Filter
+Setting Up Smooth Filter
+Applying Smooth Filter
+Cleaning Up Smooth Filter
+Setting Output Name
+Saving Image to output17_1.png
+Save MonkTimer Report: 
+	Called 1 Times
+	Took 24.1969s on Ave
+	Took 24.1969s Total
+Total MonkTimer Report: 
+	Called 1 Times
+	Took 31.0869s on Ave
+	Took 31.0869s Total
+GPU MonkTimer Report: 
+	Called 1 Times
+	Took 3.2356s on Ave
+	Took 3.2356s Total
+Setup MonkTimer Report: 
+	Called 1 Times
+	Took 4.39757s on Ave
+	Took 4.39757s Total
+Open MonkTimer Report: 
+	Called 1 Times
+	Took 2.49245s on Ave
+	Took 2.49245s Total
+Device count is 3
+Original Device is Device 0:  GeForce GTX 680
+New Device is Device 0:  GeForce GTX 680
+Creating Image
+Smoothing Image
+Creating Smooth Filter
+Setting Up Smooth Filter
+Applying Smooth Filter
+Cleaning Up Smooth Filter
+Setting Output Name
+Saving Image to output17_2.png
+Save MonkTimer Report: 
+	Called 1 Times
+	Took 24.4222s on Ave
+	Took 24.4222s Total
+Total MonkTimer Report: 
+	Called 1 Times
+	Took 31.348s on Ave
+	Took 31.348s Total
+GPU MonkTimer Report: 
+	Called 1 Times
+	Took 3.25456s on Ave
+	Took 3.25456s Total
+Setup MonkTimer Report: 
+	Called 1 Times
+	Took 4.42062s on Ave
+	Took 4.42062s Total
+Open MonkTimer Report: 
+	Called 1 Times
+	Took 2.50526s on Ave
+	Took 2.50526s Total
+Device count is 3
+Original Device is Device 0:  GeForce GTX 680
+New Device is Device 0:  GeForce GTX 680
+Creating Image
+Smoothing Image
+Creating Smooth Filter
+Setting Up Smooth Filter
+Applying Smooth Filter
+Cleaning Up Smooth Filter
+Setting Output Name
+Saving Image to output17_3.png
+Save MonkTimer Report: 
+	Called 1 Times
+	Took 24.0887s on Ave
+	Took 24.0887s Total
+Total MonkTimer Report: 
+	Called 1 Times
+	Took 30.8254s on Ave
+	Took 30.8254s Total
+GPU MonkTimer Report: 
+	Called 1 Times
+	Took 3.23019s on Ave
+	Took 3.23019s Total
+Setup MonkTimer Report: 
+	Called 1 Times
+	Took 4.42057s on Ave
+	Took 4.42057s Total
+Open MonkTimer Report: 
+	Called 1 Times
+	Took 2.31612s on Ave
+	Took 2.31612s Total
+Device count is 3
+Original Device is Device 0:  GeForce GTX 680
+New Device is Device 0:  GeForce GTX 680
+Creating Image
+Smoothing Image
+Creating Smooth Filter
+Setting Up Smooth Filter
+Applying Smooth Filter
+Cleaning Up Smooth Filter
+Setting Output Name
+Saving Image to output19_1.png
+Save MonkTimer Report: 
+	Called 1 Times
+	Took 24.9142s on Ave
+	Took 24.9142s Total
+Total MonkTimer Report: 
+	Called 1 Times
+	Took 32.5671s on Ave
+	Took 32.5671s Total
+GPU MonkTimer Report: 
+	Called 1 Times
+	Took 4.07063s on Ave
+	Took 4.07063s Total
+Setup MonkTimer Report: 
+	Called 1 Times
+	Took 5.24161s on Ave
+	Took 5.24161s Total
+Open MonkTimer Report: 
+	Called 1 Times
+	Took 2.41133s on Ave
+	Took 2.41133s Total
+Device count is 3
+Original Device is Device 0:  GeForce GTX 680
+New Device is Device 0:  GeForce GTX 680
+Creating Image
+Smoothing Image
+Creating Smooth Filter
+Setting Up Smooth Filter
+Applying Smooth Filter
+Cleaning Up Smooth Filter
+Setting Output Name
+Saving Image to output19_2.png
+Save MonkTimer Report: 
+	Called 1 Times
+	Took 24.325s on Ave
+	Took 24.325s Total
+Total MonkTimer Report: 
+	Called 1 Times
+	Took 32.0132s on Ave
+	Took 32.0132s Total
+GPU MonkTimer Report: 
+	Called 1 Times
+	Took 4.02875s on Ave
+	Took 4.02875s Total
+Setup MonkTimer Report: 
+	Called 1 Times
+	Took 5.19068s on Ave
+	Took 5.19068s Total
+Open MonkTimer Report: 
+	Called 1 Times
+	Took 2.4975s on Ave
+	Took 2.4975s Total
+Device count is 3
+Original Device is Device 0:  GeForce GTX 680
+New Device is Device 0:  GeForce GTX 680
+Creating Image
+Smoothing Image
+Creating Smooth Filter
+Setting Up Smooth Filter
+Applying Smooth Filter
+Cleaning Up Smooth Filter
+Setting Output Name
+Saving Image to output19_3.png
+Save MonkTimer Report: 
+	Called 1 Times
+	Took 24.0026s on Ave
+	Took 24.0026s Total
+Total MonkTimer Report: 
+	Called 1 Times
+	Took 31.6123s on Ave
+	Took 31.6123s Total
+GPU MonkTimer Report: 
+	Called 1 Times
+	Took 4.06403s on Ave
+	Took 4.06403s Total
+Setup MonkTimer Report: 
+	Called 1 Times
+	Took 5.22534s on Ave
+	Took 5.22534s Total
+Open MonkTimer Report: 
+	Called 1 Times
+	Took 2.38434s on Ave
+	Took 2.38434s Total
+Device count is 3
+Original Device is Device 0:  GeForce GTX 680
+New Device is Device 0:  GeForce GTX 680
+Creating Image
+Smoothing Image
+Creating Smooth Filter
+Setting Up Smooth Filter
+Applying Smooth Filter
+Cleaning Up Smooth Filter
+Setting Output Name
+Saving Image to output21_1.png
+Save MonkTimer Report: 
+	Called 1 Times
+	Took 24.8428s on Ave
+	Took 24.8428s Total
+Total MonkTimer Report: 
+	Called 1 Times
+	Took 33.2977s on Ave
+	Took 33.2977s Total
+GPU MonkTimer Report: 
+	Called 1 Times
+	Took 4.89523s on Ave
+	Took 4.89523s Total
+Setup MonkTimer Report: 
+	Called 1 Times
+	Took 6.04205s on Ave
+	Took 6.04205s Total
+Open MonkTimer Report: 
+	Called 1 Times
+	Took 2.41287s on Ave
+	Took 2.41287s Total
+Device count is 3
+Original Device is Device 0:  GeForce GTX 680
+New Device is Device 0:  GeForce GTX 680
+Creating Image
+Smoothing Image
+Creating Smooth Filter
+Setting Up Smooth Filter
+Applying Smooth Filter
+Cleaning Up Smooth Filter
+Setting Output Name
+Saving Image to output21_2.png
+Save MonkTimer Report: 
+	Called 1 Times
+	Took 24.7006s on Ave
+	Took 24.7006s Total
+Total MonkTimer Report: 
+	Called 1 Times
+	Took 33.3249s on Ave
+	Took 33.3249s Total
+GPU MonkTimer Report: 
+	Called 1 Times
+	Took 4.93991s on Ave
+	Took 4.93991s Total
+Setup MonkTimer Report: 
+	Called 1 Times
+	Took 6.12443s on Ave
+	Took 6.12443s Total
+Open MonkTimer Report: 
+	Called 1 Times
+	Took 2.49995s on Ave
+	Took 2.49995s Total
+Device count is 3
+Original Device is Device 0:  GeForce GTX 680
+New Device is Device 0:  GeForce GTX 680
+Creating Image
+Smoothing Image
+Creating Smooth Filter
+Setting Up Smooth Filter
+Applying Smooth Filter
+Cleaning Up Smooth Filter
+Setting Output Name
+Saving Image to output21_3.png
+Save MonkTimer Report: 
+	Called 1 Times
+	Took 24.1547s on Ave
+	Took 24.1547s Total
+Total MonkTimer Report: 
+	Called 1 Times
+	Took 32.7797s on Ave
+	Took 32.7797s Total
+GPU MonkTimer Report: 
+	Called 1 Times
+	Took 4.9563s on Ave
+	Took 4.9563s Total
+Setup MonkTimer Report: 
+	Called 1 Times
+	Took 6.12285s on Ave
+	Took 6.12285s Total
+Open MonkTimer Report: 
+	Called 1 Times
+	Took 2.50222s on Ave
+	Took 2.50222s Total

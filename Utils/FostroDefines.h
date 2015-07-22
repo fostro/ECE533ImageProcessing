@@ -3,10 +3,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-#define GTX680		0
-#define GTX580_1	1
-#define GTX580_2	2
-
 #define ThrowWandException(wand) \
 { \
   char \
@@ -28,8 +24,8 @@
         printf("%s Error: %s\n", y, cudaGetErrorString(error));\
         exit(1);\
         }
-//#define FostroType	float
-#define FostroType	double
+#define FostroType	float
+//#define FostroType	double
 
 struct FostroGPU {
 	unsigned long numPixels;

@@ -42,13 +42,9 @@ FostroImage::FostroImage(std::string imagePath, std::string outputPath) {
 			break;
 		for (x=0; x < (long) width; x++)
 		{
-			//PixelGetMagickColor(tpixels[x],&pixel);
 			pixels[y*width+x].setRedVal((float)PixelGetRed(tpixels[x]));
 			pixels[y*width+x].setGreenVal((float)PixelGetGreen(tpixels[x]));
 			pixels[y*width+x].setBlueVal((float)PixelGetBlue(tpixels[x]));
-			//pixels[y*width+x].setRedVal(pixel.red);
-			//pixels[y*width+x].setGreenVal(pixel.green);
-			//pixels[y*width+x].setBlueVal(pixel.blue);
 			pixels[y*width+x].calcGrayscaleIntensity();
 		}
 	}
@@ -228,14 +224,9 @@ void FostroImage::saveImage() {
 		}
 		for (x=0; x < (long) width; x++)
 		{
-			//PixelGetMagickColor(tpixels[x],&pixel);
 			PixelSetRed(tpixels[x], (double)pixels[y*width+x].getRedVal());
 			PixelSetGreen(tpixels[x], (double)pixels[y*width+x].getGreenVal());
 			PixelSetBlue(tpixels[x], (double)pixels[y*width+x].getBlueVal());
-		//	pixel.red = pixels[y*width+x].getRedVal();;
-		//	pixel.green = pixels[y*width+x].getGreenVal();;
-		//	pixel.blue = pixels[y*width+x].getBlueVal();;
-		//	PixelSetMagickColor(tpixels[x],&pixel);
 		}
 		(void) PixelSyncIterator(iterator);
 	}

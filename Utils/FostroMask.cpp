@@ -105,7 +105,6 @@ FostroType FostroMask::getImageValAtMaskLoc(int xMask, int yMask, int xImage, in
 	int x = calcHeightOffset(xImage, xMask);
 	int y = calcWidthOffset(yImage, yMask);
 
-    //pixel = image->getPixel(calcWidthOffset(xImage, xMask), calcHeightOffset(yImage, yMask));
     pixel = image->getPixel(x, y);
     
     switch (c) {
@@ -149,8 +148,6 @@ FostroType FostroMask::getImageValAtMaskLoc(int xMask, int yMask, int xImage, in
 	if (val == -1) {
 		std::cout << "Val is -1, something went wrong in the switch case" << std::endl;
 	}
-
-//	std::cout << "val in getImageValAtMaskLoc = " << val << " from location [" << x << "][" << y << "]" << std::endl;
 
     return val*getMaskVal(xMask, yMask);
 } 

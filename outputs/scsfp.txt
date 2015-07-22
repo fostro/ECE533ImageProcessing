@@ -8,24 +8,24 @@ Setting Output Name
 Saving Image to output3_1.png
 Save MonkTimer Report: 
 	Called 1 Times
-	Took 33.1875s on Ave
-	Took 33.1875s Total
+	Took 33.5092s on Ave
+	Took 33.5092s Total
 Total MonkTimer Report: 
 	Called 1 Times
-	Took 39.4746s on Ave
-	Took 39.4746s Total
+	Took 39.7078s on Ave
+	Took 39.7078s Total
 GPU MonkTimer Report: 
 	Called 1 Times
-	Took 0.138213s on Ave
-	Took 0.138213s Total
+	Took 0.177372s on Ave
+	Took 0.177372s Total
 Setup MonkTimer Report: 
 	Called 1 Times
-	Took 3.62127s on Ave
-	Took 3.62127s Total
+	Took 3.6359s on Ave
+	Took 3.6359s Total
 Open MonkTimer Report: 
 	Called 1 Times
-	Took 2.66578s on Ave
-	Took 2.66578s Total
+	Took 2.5627s on Ave
+	Took 2.5627s Total
 Creating Image
 Smoothing Image
 Creating Smooth Filter
@@ -36,24 +36,24 @@ Setting Output Name
 Saving Image to output3_2.png
 Save MonkTimer Report: 
 	Called 1 Times
-	Took 33.2346s on Ave
-	Took 33.2346s Total
+	Took 33.2651s on Ave
+	Took 33.2651s Total
 Total MonkTimer Report: 
 	Called 1 Times
-	Took 39.4936s on Ave
-	Took 39.4936s Total
+	Took 39.5013s on Ave
+	Took 39.5013s Total
 GPU MonkTimer Report: 
 	Called 1 Times
-	Took 0.138201s on Ave
-	Took 0.138201s Total
+	Took 0.17728s on Ave
+	Took 0.17728s Total
 Setup MonkTimer Report: 
 	Called 1 Times
-	Took 3.58265s on Ave
-	Took 3.58265s Total
+	Took 3.63922s on Ave
+	Took 3.63922s Total
 Open MonkTimer Report: 
 	Called 1 Times
-	Took 2.67634s on Ave
-	Took 2.67634s Total
+	Took 2.59697s on Ave
+	Took 2.59697s Total
 Creating Image
 Smoothing Image
 Creating Smooth Filter
@@ -64,24 +64,24 @@ Setting Output Name
 Saving Image to output3_3.png
 Save MonkTimer Report: 
 	Called 1 Times
-	Took 33.3161s on Ave
-	Took 33.3161s Total
+	Took 33.2289s on Ave
+	Took 33.2289s Total
 Total MonkTimer Report: 
 	Called 1 Times
-	Took 39.7749s on Ave
-	Took 39.7749s Total
+	Took 39.3383s on Ave
+	Took 39.3383s Total
 GPU MonkTimer Report: 
 	Called 1 Times
-	Took 0.138151s on Ave
-	Took 0.138151s Total
+	Took 0.177324s on Ave
+	Took 0.177324s Total
 Setup MonkTimer Report: 
 	Called 1 Times
-	Took 3.79359s on Ave
-	Took 3.79359s Total
+	Took 3.50615s on Ave
+	Took 3.50615s Total
 Open MonkTimer Report: 
 	Called 1 Times
-	Took 2.6652s on Ave
-	Took 2.6652s Total
+	Took 2.60316s on Ave
+	Took 2.60316s Total
 Creating Image
 Smoothing Image
 Creating Smooth Filter
@@ -92,24 +92,24 @@ Setting Output Name
 Saving Image to output5_1.png
 Save MonkTimer Report: 
 	Called 1 Times
-	Took 36.0925s on Ave
-	Took 36.0925s Total
+	Took 36.0361s on Ave
+	Took 36.0361s Total
 Total MonkTimer Report: 
 	Called 1 Times
-	Took 42.5917s on Ave
-	Took 42.5917s Total
+	Took 42.4872s on Ave
+	Took 42.4872s Total
 GPU MonkTimer Report: 
 	Called 1 Times
-	Took 0.342758s on Ave
-	Took 0.342758s Total
+	Took 0.446947s on Ave
+	Took 0.446947s Total
 Setup MonkTimer Report: 
 	Called 1 Times
-	Took 3.85728s on Ave
-	Took 3.85728s Total
+	Took 3.88943s on Ave
+	Took 3.88943s Total
 Open MonkTimer Report: 
 	Called 1 Times
-	Took 2.64198s on Ave
-	Took 2.64198s Total
+	Took 2.56169s on Ave
+	Took 2.56169s Total
 Creating Image
 Smoothing Image
 Creating Smooth Filter
@@ -120,24 +120,24 @@ Setting Output Name
 Saving Image to output5_2.png
 Save MonkTimer Report: 
 	Called 1 Times
-	Took 36.0757s on Ave
-	Took 36.0757s Total
+	Took 36.1458s on Ave
+	Took 36.1458s Total
 Total MonkTimer Report: 
 	Called 1 Times
-	Took 42.5392s on Ave
-	Took 42.5392s Total
+	Took 42.4425s on Ave
+	Took 42.4425s Total
 GPU MonkTimer Report: 
 	Called 1 Times
-	Took 0.342918s on Ave
-	Took 0.342918s Total
+	Took 0.446673s on Ave
+	Took 0.446673s Total
 Setup MonkTimer Report: 
 	Called 1 Times
-	Took 3.85621s on Ave
-	Took 3.85621s Total
+	Took 3.908s on Ave
+	Took 3.908s Total
 Open MonkTimer Report: 
 	Called 1 Times
-	Took 2.60726s on Ave
-	Took 2.60726s Total
+	Took 2.38869s on Ave
+	Took 2.38869s Total
 Creating Image
 Smoothing Image
 Creating Smooth Filter
@@ -148,24 +148,24 @@ Setting Output Name
 Saving Image to output5_3.png
 Save MonkTimer Report: 
 	Called 1 Times
-	Took 36.0777s on Ave
-	Took 36.0777s Total
+	Took 35.9361s on Ave
+	Took 35.9361s Total
 Total MonkTimer Report: 
 	Called 1 Times
-	Took 42.4044s on Ave
-	Took 42.4044s Total
+	Took 42.4064s on Ave
+	Took 42.4064s Total
 GPU MonkTimer Report: 
 	Called 1 Times
-	Took 0.342891s on Ave
-	Took 0.342891s Total
+	Took 0.446667s on Ave
+	Took 0.446667s Total
 Setup MonkTimer Report: 
 	Called 1 Times
-	Took 3.76709s on Ave
-	Took 3.76709s Total
+	Took 3.91361s on Ave
+	Took 3.91361s Total
 Open MonkTimer Report: 
 	Called 1 Times
-	Took 2.55964s on Ave
-	Took 2.55964s Total
+	Took 2.55668s on Ave
+	Took 2.55668s Total
 Creating Image
 Smoothing Image
 Creating Smooth Filter
@@ -176,24 +176,24 @@ Setting Output Name
 Saving Image to output7_1.png
 Save MonkTimer Report: 
 	Called 1 Times
-	Took 38.8078s on Ave
-	Took 38.8078s Total
+	Took 38.8727s on Ave
+	Took 38.8727s Total
 Total MonkTimer Report: 
 	Called 1 Times
-	Took 45.2367s on Ave
-	Took 45.2367s Total
+	Took 45.7472s on Ave
+	Took 45.7472s Total
 GPU MonkTimer Report: 
 	Called 1 Times
-	Took 0.643537s on Ave
-	Took 0.643537s Total
+	Took 0.843382s on Ave
+	Took 0.843382s Total
 Setup MonkTimer Report: 
 	Called 1 Times
-	Took 4.11565s on Ave
-	Took 4.11565s Total
+	Took 4.29799s on Ave
+	Took 4.29799s Total
 Open MonkTimer Report: 
 	Called 1 Times
-	Took 2.31329s on Ave
-	Took 2.31329s Total
+	Took 2.57645s on Ave
+	Took 2.57645s Total
 Creating Image
 Smoothing Image
 Creating Smooth Filter
@@ -204,24 +204,24 @@ Setting Output Name
 Saving Image to output7_2.png
 Save MonkTimer Report: 
 	Called 1 Times
-	Took 38.7922s on Ave
-	Took 38.7922s Total
+	Took 38.896s on Ave
+	Took 38.896s Total
 Total MonkTimer Report: 
 	Called 1 Times
-	Took 45.5608s on Ave
-	Took 45.5608s Total
+	Took 45.8005s on Ave
+	Took 45.8005s Total
 GPU MonkTimer Report: 
 	Called 1 Times
-	Took 0.643299s on Ave
-	Took 0.643299s Total
+	Took 0.843517s on Ave
+	Took 0.843517s Total
 Setup MonkTimer Report: 
 	Called 1 Times
-	Took 4.15322s on Ave
-	Took 4.15322s Total
+	Took 4.32183s on Ave
+	Took 4.32183s Total
 Open MonkTimer Report: 
 	Called 1 Times
-	Took 2.61534s on Ave
-	Took 2.61534s Total
+	Took 2.58271s on Ave
+	Took 2.58271s Total
 Creating Image
 Smoothing Image
 Creating Smooth Filter
@@ -232,24 +232,24 @@ Setting Output Name
 Saving Image to output7_3.png
 Save MonkTimer Report: 
 	Called 1 Times
-	Took 38.9261s on Ave
-	Took 38.9261s Total
+	Took 38.8522s on Ave
+	Took 38.8522s Total
 Total MonkTimer Report: 
 	Called 1 Times
-	Took 45.703s on Ave
-	Took 45.703s Total
+	Took 45.6721s on Ave
+	Took 45.6721s Total
 GPU MonkTimer Report: 
 	Called 1 Times
-	Took 0.643795s on Ave
-	Took 0.643795s Total
+	Took 0.843639s on Ave
+	Took 0.843639s Total
 Setup MonkTimer Report: 
 	Called 1 Times
-	Took 4.14309s on Ave
-	Took 4.14309s Total
+	Took 4.26465s on Ave
+	Took 4.26465s Total
 Open MonkTimer Report: 
 	Called 1 Times
-	Took 2.63383s on Ave
-	Took 2.63383s Total
+	Took 2.5553s on Ave
+	Took 2.5553s Total
 Creating Image
 Smoothing Image
 Creating Smooth Filter
@@ -260,24 +260,24 @@ Setting Output Name
 Saving Image to output9_1.png
 Save MonkTimer Report: 
 	Called 1 Times
-	Took 39.0786s on Ave
-	Took 39.0786s Total
+	Took 38.3624s on Ave
+	Took 38.3624s Total
 Total MonkTimer Report: 
 	Called 1 Times
-	Took 46.4993s on Ave
-	Took 46.4993s Total
+	Took 45.7536s on Ave
+	Took 45.7536s Total
 GPU MonkTimer Report: 
 	Called 1 Times
-	Took 1.04533s on Ave
-	Took 1.04533s Total
+	Took 1.36838s on Ave
+	Took 1.36838s Total
 Setup MonkTimer Report: 
 	Called 1 Times
-	Took 4.79146s on Ave
-	Took 4.79146s Total
+	Took 4.82428s on Ave
+	Took 4.82428s Total
 Open MonkTimer Report: 
 	Called 1 Times
-	Took 2.62924s on Ave
-	Took 2.62924s Total
+	Took 2.56694s on Ave
+	Took 2.56694s Total
 Creating Image
 Smoothing Image
 Creating Smooth Filter
@@ -288,24 +288,24 @@ Setting Output Name
 Saving Image to output9_2.png
 Save MonkTimer Report: 
 	Called 1 Times
-	Took 38.7742s on Ave
-	Took 38.7742s Total
+	Took 39.2165s on Ave
+	Took 39.2165s Total
 Total MonkTimer Report: 
 	Called 1 Times
-	Took 46.0024s on Ave
-	Took 46.0024s Total
+	Took 46.4512s on Ave
+	Took 46.4512s Total
 GPU MonkTimer Report: 
 	Called 1 Times
-	Took 1.04633s on Ave
-	Took 1.04633s Total
+	Took 1.36766s on Ave
+	Took 1.36766s Total
 Setup MonkTimer Report: 
 	Called 1 Times
-	Took 4.55702s on Ave
-	Took 4.55702s Total
+	Took 4.80539s on Ave
+	Took 4.80539s Total
 Open MonkTimer Report: 
 	Called 1 Times
-	Took 2.67118s on Ave
-	Took 2.67118s Total
+	Took 2.42928s on Ave
+	Took 2.42928s Total
 Creating Image
 Smoothing Image
 Creating Smooth Filter
@@ -316,24 +316,24 @@ Setting Output Name
 Saving Image to output9_3.png
 Save MonkTimer Report: 
 	Called 1 Times
-	Took 38.7371s on Ave
-	Took 38.7371s Total
+	Took 38.8042s on Ave
+	Took 38.8042s Total
 Total MonkTimer Report: 
 	Called 1 Times
-	Took 45.9478s on Ave
-	Took 45.9478s Total
+	Took 46.1185s on Ave
+	Took 46.1185s Total
 GPU MonkTimer Report: 
 	Called 1 Times
-	Took 1.04582s on Ave
-	Took 1.04582s Total
+	Took 1.36783s on Ave
+	Took 1.36783s Total
 Setup MonkTimer Report: 
 	Called 1 Times
-	Took 4.55626s on Ave
-	Took 4.55626s Total
+	Took 4.78044s on Ave
+	Took 4.78044s Total
 Open MonkTimer Report: 
 	Called 1 Times
-	Took 2.65436s on Ave
-	Took 2.65436s Total
+	Took 2.53386s on Ave
+	Took 2.53386s Total
 Creating Image
 Smoothing Image
 Creating Smooth Filter
@@ -344,24 +344,24 @@ Setting Output Name
 Saving Image to output11_1.png
 Save MonkTimer Report: 
 	Called 1 Times
-	Took 37.4305s on Ave
-	Took 37.4305s Total
+	Took 36.8889s on Ave
+	Took 36.8889s Total
 Total MonkTimer Report: 
 	Called 1 Times
-	Took 45.16s on Ave
-	Took 45.16s Total
+	Took 44.9034s on Ave
+	Took 44.9034s Total
 GPU MonkTimer Report: 
 	Called 1 Times
-	Took 1.54345s on Ave
-	Took 1.54345s Total
+	Took 2.01855s on Ave
+	Took 2.01855s Total
 Setup MonkTimer Report: 
 	Called 1 Times
-	Took 5.07399s on Ave
-	Took 5.07399s Total
+	Took 5.46192s on Ave
+	Took 5.46192s Total
 Open MonkTimer Report: 
 	Called 1 Times
-	Took 2.65556s on Ave
-	Took 2.65556s Total
+	Took 2.55259s on Ave
+	Took 2.55259s Total
 Creating Image
 Smoothing Image
 Creating Smooth Filter
@@ -372,24 +372,24 @@ Setting Output Name
 Saving Image to output11_2.png
 Save MonkTimer Report: 
 	Called 1 Times
-	Took 37.3605s on Ave
-	Took 37.3605s Total
+	Took 37.2192s on Ave
+	Took 37.2192s Total
 Total MonkTimer Report: 
 	Called 1 Times
-	Took 45.0792s on Ave
-	Took 45.0792s Total
+	Took 45.2513s on Ave
+	Took 45.2513s Total
 GPU MonkTimer Report: 
 	Called 1 Times
-	Took 1.54355s on Ave
-	Took 1.54355s Total
+	Took 2.01774s on Ave
+	Took 2.01774s Total
 Setup MonkTimer Report: 
 	Called 1 Times
-	Took 5.07227s on Ave
-	Took 5.07227s Total
+	Took 5.46638s on Ave
+	Took 5.46638s Total
 Open MonkTimer Report: 
 	Called 1 Times
-	Took 2.64642s on Ave
-	Took 2.64642s Total
+	Took 2.56574s on Ave
+	Took 2.56574s Total
 Creating Image
 Smoothing Image
 Creating Smooth Filter
@@ -400,24 +400,24 @@ Setting Output Name
 Saving Image to output11_3.png
 Save MonkTimer Report: 
 	Called 1 Times
-	Took 37.6413s on Ave
-	Took 37.6413s Total
+	Took 37.2298s on Ave
+	Took 37.2298s Total
 Total MonkTimer Report: 
 	Called 1 Times
-	Took 45.3198s on Ave
-	Took 45.3198s Total
+	Took 45.2615s on Ave
+	Took 45.2615s Total
 GPU MonkTimer Report: 
 	Called 1 Times
-	Took 1.54378s on Ave
-	Took 1.54378s Total
+	Took 2.01814s on Ave
+	Took 2.01814s Total
 Setup MonkTimer Report: 
 	Called 1 Times
-	Took 5.0511s on Ave
-	Took 5.0511s Total
+	Took 5.48906s on Ave
+	Took 5.48906s Total
 Open MonkTimer Report: 
 	Called 1 Times
-	Took 2.6274s on Ave
-	Took 2.6274s Total
+	Took 2.5426s on Ave
+	Took 2.5426s Total
 Creating Image
 Smoothing Image
 Creating Smooth Filter
@@ -428,24 +428,24 @@ Setting Output Name
 Saving Image to output13_1.png
 Save MonkTimer Report: 
 	Called 1 Times
-	Took 38.5311s on Ave
-	Took 38.5311s Total
+	Took 38.5684s on Ave
+	Took 38.5684s Total
 Total MonkTimer Report: 
 	Called 1 Times
-	Took 46.8502s on Ave
-	Took 46.8502s Total
+	Took 47.2648s on Ave
+	Took 47.2648s Total
 GPU MonkTimer Report: 
 	Called 1 Times
-	Took 2.14062s on Ave
-	Took 2.14062s Total
+	Took 2.79364s on Ave
+	Took 2.79364s Total
 Setup MonkTimer Report: 
 	Called 1 Times
-	Took 5.70858s on Ave
-	Took 5.70858s Total
+	Took 6.15445s on Ave
+	Took 6.15445s Total
 Open MonkTimer Report: 
 	Called 1 Times
-	Took 2.61051s on Ave
-	Took 2.61051s Total
+	Took 2.54195s on Ave
+	Took 2.54195s Total
 Creating Image
 Smoothing Image
 Creating Smooth Filter
@@ -456,24 +456,24 @@ Setting Output Name
 Saving Image to output13_2.png
 Save MonkTimer Report: 
 	Called 1 Times
-	Took 38.7591s on Ave
-	Took 38.7591s Total
+	Took 38.5994s on Ave
+	Took 38.5994s Total
 Total MonkTimer Report: 
 	Called 1 Times
-	Took 47.9351s on Ave
-	Took 47.9351s Total
+	Took 47.3254s on Ave
+	Took 47.3254s Total
 GPU MonkTimer Report: 
 	Called 1 Times
-	Took 2.14042s on Ave
-	Took 2.14042s Total
+	Took 2.7943s on Ave
+	Took 2.7943s Total
 Setup MonkTimer Report: 
 	Called 1 Times
-	Took 6.5466s on Ave
-	Took 6.5466s Total
+	Took 6.15188s on Ave
+	Took 6.15188s Total
 Open MonkTimer Report: 
 	Called 1 Times
-	Took 2.62942s on Ave
-	Took 2.62942s Total
+	Took 2.57415s on Ave
+	Took 2.57415s Total
 Creating Image
 Smoothing Image
 Creating Smooth Filter
@@ -484,24 +484,24 @@ Setting Output Name
 Saving Image to output13_3.png
 Save MonkTimer Report: 
 	Called 1 Times
-	Took 38.564s on Ave
-	Took 38.564s Total
+	Took 38.5203s on Ave
+	Took 38.5203s Total
 Total MonkTimer Report: 
 	Called 1 Times
-	Took 46.6987s on Ave
-	Took 46.6987s Total
+	Took 47.4071s on Ave
+	Took 47.4071s Total
 GPU MonkTimer Report: 
 	Called 1 Times
-	Took 2.14094s on Ave
-	Took 2.14094s Total
+	Took 2.794s on Ave
+	Took 2.794s Total
 Setup MonkTimer Report: 
 	Called 1 Times
-	Took 5.64595s on Ave
-	Took 5.64595s Total
+	Took 6.25945s on Ave
+	Took 6.25945s Total
 Open MonkTimer Report: 
 	Called 1 Times
-	Took 2.4887s on Ave
-	Took 2.4887s Total
+	Took 2.62729s on Ave
+	Took 2.62729s Total
 Creating Image
 Smoothing Image
 Creating Smooth Filter
@@ -512,24 +512,24 @@ Setting Output Name
 Saving Image to output15_1.png
 Save MonkTimer Report: 
 	Called 1 Times
-	Took 40.5147s on Ave
-	Took 40.5147s Total
+	Took 40.3866s on Ave
+	Took 40.3866s Total
 Total MonkTimer Report: 
 	Called 1 Times
-	Took 49.6794s on Ave
-	Took 49.6794s Total
+	Took 50.1925s on Ave
+	Took 50.1925s Total
 GPU MonkTimer Report: 
 	Called 1 Times
-	Took 2.83541s on Ave
-	Took 2.83541s Total
+	Took 3.69624s on Ave
+	Took 3.69624s Total
 Setup MonkTimer Report: 
 	Called 1 Times
-	Took 6.54408s on Ave
-	Took 6.54408s Total
+	Took 7.16855s on Ave
+	Took 7.16855s Total
 Open MonkTimer Report: 
 	Called 1 Times
-	Took 2.62064s on Ave
-	Took 2.62064s Total
+	Took 2.63737s on Ave
+	Took 2.63737s Total
 Creating Image
 Smoothing Image
 Creating Smooth Filter
@@ -540,24 +540,24 @@ Setting Output Name
 Saving Image to output15_2.png
 Save MonkTimer Report: 
 	Called 1 Times
-	Took 40.9528s on Ave
-	Took 40.9528s Total
+	Took 41.0939s on Ave
+	Took 41.0939s Total
 Total MonkTimer Report: 
 	Called 1 Times
-	Took 49.6742s on Ave
-	Took 49.6742s Total
+	Took 50.8288s on Ave
+	Took 50.8288s Total
 GPU MonkTimer Report: 
 	Called 1 Times
-	Took 2.8348s on Ave
-	Took 2.8348s Total
+	Took 3.69512s on Ave
+	Took 3.69512s Total
 Setup MonkTimer Report: 
 	Called 1 Times
-	Took 6.17045s on Ave
-	Took 6.17045s Total
+	Took 7.17539s on Ave
+	Took 7.17539s Total
 Open MonkTimer Report: 
 	Called 1 Times
-	Took 2.55098s on Ave
-	Took 2.55098s Total
+	Took 2.55948s on Ave
+	Took 2.55948s Total
 Creating Image
 Smoothing Image
 Creating Smooth Filter
@@ -568,24 +568,24 @@ Setting Output Name
 Saving Image to output15_3.png
 Save MonkTimer Report: 
 	Called 1 Times
-	Took 40.4333s on Ave
-	Took 40.4333s Total
+	Took 40.2693s on Ave
+	Took 40.2693s Total
 Total MonkTimer Report: 
 	Called 1 Times
-	Took 49.4016s on Ave
-	Took 49.4016s Total
+	Took 49.9989s on Ave
+	Took 49.9989s Total
 GPU MonkTimer Report: 
 	Called 1 Times
-	Took 2.83621s on Ave
-	Took 2.83621s Total
+	Took 3.69429s on Ave
+	Took 3.69429s Total
 Setup MonkTimer Report: 
 	Called 1 Times
-	Took 6.34379s on Ave
-	Took 6.34379s Total
+	Took 7.15887s on Ave
+	Took 7.15887s Total
 Open MonkTimer Report: 
 	Called 1 Times
-	Took 2.62451s on Ave
-	Took 2.62451s Total
+	Took 2.57074s on Ave
+	Took 2.57074s Total
 Creating Image
 Smoothing Image
 Creating Smooth Filter
@@ -596,24 +596,24 @@ Setting Output Name
 Saving Image to output17_1.png
 Save MonkTimer Report: 
 	Called 1 Times
-	Took 40.8197s on Ave
-	Took 40.8197s Total
+	Took 40.7881s on Ave
+	Took 40.7881s Total
 Total MonkTimer Report: 
 	Called 1 Times
-	Took 50.5007s on Ave
-	Took 50.5007s Total
+	Took 51.5799s on Ave
+	Took 51.5799s Total
 GPU MonkTimer Report: 
 	Called 1 Times
-	Took 3.62741s on Ave
-	Took 3.62741s Total
+	Took 4.72589s on Ave
+	Took 4.72589s Total
 Setup MonkTimer Report: 
 	Called 1 Times
-	Took 7.09846s on Ave
-	Took 7.09846s Total
+	Took 8.19564s on Ave
+	Took 8.19564s Total
 Open MonkTimer Report: 
 	Called 1 Times
-	Took 2.5825s on Ave
-	Took 2.5825s Total
+	Took 2.5961s on Ave
+	Took 2.5961s Total
 Creating Image
 Smoothing Image
 Creating Smooth Filter
@@ -624,24 +624,24 @@ Setting Output Name
 Saving Image to output17_2.png
 Save MonkTimer Report: 
 	Called 1 Times
-	Took 44.3647s on Ave
-	Took 44.3647s Total
+	Took 40.7874s on Ave
+	Took 40.7874s Total
 Total MonkTimer Report: 
 	Called 1 Times
-	Took 54.1419s on Ave
-	Took 54.1419s Total
+	Took 51.5571s on Ave
+	Took 51.5571s Total
 GPU MonkTimer Report: 
 	Called 1 Times
-	Took 3.62766s on Ave
-	Took 3.62766s Total
+	Took 4.72873s on Ave
+	Took 4.72873s Total
 Setup MonkTimer Report: 
 	Called 1 Times
-	Took 7.13141s on Ave
-	Took 7.13141s Total
+	Took 8.16977s on Ave
+	Took 8.16977s Total
 Open MonkTimer Report: 
 	Called 1 Times
-	Took 2.64576s on Ave
-	Took 2.64576s Total
+	Took 2.59992s on Ave
+	Took 2.59992s Total
 Creating Image
 Smoothing Image
 Creating Smooth Filter
@@ -652,24 +652,24 @@ Setting Output Name
 Saving Image to output17_3.png
 Save MonkTimer Report: 
 	Called 1 Times
-	Took 40.6547s on Ave
-	Took 40.6547s Total
+	Took 40.7485s on Ave
+	Took 40.7485s Total
 Total MonkTimer Report: 
 	Called 1 Times
-	Took 50.3888s on Ave
-	Took 50.3888s Total
+	Took 51.4663s on Ave
+	Took 51.4663s Total
 GPU MonkTimer Report: 
 	Called 1 Times
-	Took 3.62635s on Ave
-	Took 3.62635s Total
+	Took 4.72455s on Ave
+	Took 4.72455s Total
 Setup MonkTimer Report: 
 	Called 1 Times
-	Took 7.13287s on Ave
-	Took 7.13287s Total
+	Took 8.17208s on Ave
+	Took 8.17208s Total
 Open MonkTimer Report: 
 	Called 1 Times
-	Took 2.60126s on Ave
-	Took 2.60126s Total
+	Took 2.54564s on Ave
+	Took 2.54564s Total
 Creating Image
 Smoothing Image
 Creating Smooth Filter
@@ -680,24 +680,24 @@ Setting Output Name
 Saving Image to output19_1.png
 Save MonkTimer Report: 
 	Called 1 Times
-	Took 40.8891s on Ave
-	Took 40.8891s Total
+	Took 40.945s on Ave
+	Took 40.945s Total
 Total MonkTimer Report: 
 	Called 1 Times
-	Took 51.4897s on Ave
-	Took 51.4897s Total
+	Took 52.7174s on Ave
+	Took 52.7174s Total
 GPU MonkTimer Report: 
 	Called 1 Times
-	Took 4.51817s on Ave
-	Took 4.51817s Total
+	Took 5.88216s on Ave
+	Took 5.88216s Total
 Setup MonkTimer Report: 
 	Called 1 Times
-	Took 8.02194s on Ave
-	Took 8.02194s Total
+	Took 9.31865s on Ave
+	Took 9.31865s Total
 Open MonkTimer Report: 
 	Called 1 Times
-	Took 2.57868s on Ave
-	Took 2.57868s Total
+	Took 2.45378s on Ave
+	Took 2.45378s Total
 Creating Image
 Smoothing Image
 Creating Smooth Filter
@@ -708,24 +708,24 @@ Setting Output Name
 Saving Image to output19_2.png
 Save MonkTimer Report: 
 	Called 1 Times
-	Took 41.0639s on Ave
-	Took 41.0639s Total
+	Took 40.8808s on Ave
+	Took 40.8808s Total
 Total MonkTimer Report: 
 	Called 1 Times
-	Took 51.7036s on Ave
-	Took 51.7036s Total
+	Took 52.6543s on Ave
+	Took 52.6543s Total
 GPU MonkTimer Report: 
 	Called 1 Times
-	Took 4.51845s on Ave
-	Took 4.51845s Total
+	Took 5.8837s on Ave
+	Took 5.8837s Total
 Setup MonkTimer Report: 
 	Called 1 Times
-	Took 7.98616s on Ave
-	Took 7.98616s Total
+	Took 9.2182s on Ave
+	Took 9.2182s Total
 Open MonkTimer Report: 
 	Called 1 Times
-	Took 2.6535s on Ave
-	Took 2.6535s Total
+	Took 2.5553s on Ave
+	Took 2.5553s Total
 Creating Image
 Smoothing Image
 Creating Smooth Filter
@@ -736,24 +736,24 @@ Setting Output Name
 Saving Image to output19_3.png
 Save MonkTimer Report: 
 	Called 1 Times
-	Took 40.9526s on Ave
-	Took 40.9526s Total
+	Took 41.1262s on Ave
+	Took 41.1262s Total
 Total MonkTimer Report: 
 	Called 1 Times
-	Took 51.5826s on Ave
-	Took 51.5826s Total
+	Took 53.0142s on Ave
+	Took 53.0142s Total
 GPU MonkTimer Report: 
 	Called 1 Times
-	Took 4.52059s on Ave
-	Took 4.52059s Total
+	Took 5.88267s on Ave
+	Took 5.88267s Total
 Setup MonkTimer Report: 
 	Called 1 Times
-	Took 8.00544s on Ave
-	Took 8.00544s Total
+	Took 9.35611s on Ave
+	Took 9.35611s Total
 Open MonkTimer Report: 
 	Called 1 Times
-	Took 2.62458s on Ave
-	Took 2.62458s Total
+	Took 2.53186s on Ave
+	Took 2.53186s Total
 Creating Image
 Smoothing Image
 Creating Smooth Filter
@@ -764,24 +764,24 @@ Setting Output Name
 Saving Image to output21_1.png
 Save MonkTimer Report: 
 	Called 1 Times
-	Took 41.1598s on Ave
-	Took 41.1598s Total
+	Took 40.866s on Ave
+	Took 40.866s Total
 Total MonkTimer Report: 
 	Called 1 Times
-	Took 52.8185s on Ave
-	Took 52.8185s Total
+	Took 54.0252s on Ave
+	Took 54.0252s Total
 GPU MonkTimer Report: 
 	Called 1 Times
-	Took 5.50667s on Ave
-	Took 5.50667s Total
+	Took 7.16586s on Ave
+	Took 7.16586s Total
 Setup MonkTimer Report: 
 	Called 1 Times
-	Took 9.00931s on Ave
-	Took 9.00931s Total
+	Took 10.5742s on Ave
+	Took 10.5742s Total
 Open MonkTimer Report: 
 	Called 1 Times
-	Took 2.64937s on Ave
-	Took 2.64937s Total
+	Took 2.58497s on Ave
+	Took 2.58497s Total
 Creating Image
 Smoothing Image
 Creating Smooth Filter
@@ -792,24 +792,24 @@ Setting Output Name
 Saving Image to output21_2.png
 Save MonkTimer Report: 
 	Called 1 Times
-	Took 41.4308s on Ave
-	Took 41.4308s Total
+	Took 40.9497s on Ave
+	Took 40.9497s Total
 Total MonkTimer Report: 
 	Called 1 Times
-	Took 53.3401s on Ave
-	Took 53.3401s Total
+	Took 54.1715s on Ave
+	Took 54.1715s Total
 GPU MonkTimer Report: 
 	Called 1 Times
-	Took 5.50431s on Ave
-	Took 5.50431s Total
+	Took 7.16931s on Ave
+	Took 7.16931s Total
 Setup MonkTimer Report: 
 	Called 1 Times
-	Took 9.60251s on Ave
-	Took 9.60251s Total
+	Took 10.6435s on Ave
+	Took 10.6435s Total
 Open MonkTimer Report: 
 	Called 1 Times
-	Took 2.30675s on Ave
-	Took 2.30675s Total
+	Took 2.57819s on Ave
+	Took 2.57819s Total
 Creating Image
 Smoothing Image
 Creating Smooth Filter
@@ -820,21 +820,21 @@ Setting Output Name
 Saving Image to output21_3.png
 Save MonkTimer Report: 
 	Called 1 Times
-	Took 41.3441s on Ave
-	Took 41.3441s Total
+	Took 41.0272s on Ave
+	Took 41.0272s Total
 Total MonkTimer Report: 
 	Called 1 Times
-	Took 52.9861s on Ave
-	Took 52.9861s Total
+	Took 54.254s on Ave
+	Took 54.254s Total
 GPU MonkTimer Report: 
 	Called 1 Times
-	Took 5.50724s on Ave
-	Took 5.50724s Total
+	Took 7.16999s on Ave
+	Took 7.16999s Total
 Setup MonkTimer Report: 
 	Called 1 Times
-	Took 9.01371s on Ave
-	Took 9.01371s Total
+	Took 10.6397s on Ave
+	Took 10.6397s Total
 Open MonkTimer Report: 
 	Called 1 Times
-	Took 2.62836s on Ave
-	Took 2.62836s Total
+	Took 2.58712s on Ave
+	Took 2.58712s Total

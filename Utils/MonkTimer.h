@@ -32,17 +32,14 @@ public:
 	}
 
 	void start() {
-    	//gettimeofday(&t, NULL);
 		clock_gettime(CLOCK_REALTIME, &t);
     	time1 = t.tv_sec + (t.tv_nsec / 1000000000.0);
 	}
 
 	void stop() {
-    	//gettimeofday(&t, NULL);
 		clock_gettime(CLOCK_REALTIME, &t);
     	time2 = t.tv_sec + (t.tv_nsec / 1000000000.0);
 		count++;
-		//printf("Call took: %g\n", time2 - time1);
 		runningTime += time2 - time1;
 	}
 
